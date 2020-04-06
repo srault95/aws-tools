@@ -2,8 +2,8 @@
 
 ## Features
 
-- (aws-cli)[https://github.com/aws/aws-cli]
-- (aws-adfs)[https://github.com/funfin/aws-adfs]
+- [aws-cli](https://github.com/aws/aws-cli)
+- [aws-adfs](https://github.com/funfin/aws-adfs)
 
 ## Usage
 
